@@ -1,3 +1,5 @@
+from pathlib import Path
+
 def list_leagues():
     leagues = []
 
